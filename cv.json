@@ -31,6 +31,7 @@
     {
       "name": "Municipalidad 3 de Febrero",
       "position": "Analista de datos",
+      "url":"",
       "startDate": "2021-05-01",
       "endDate": "2022-02-01",
       "summary": "Desarrollo de sistemas interactivos, automatización de tareas y digitalización de procesos (referidos a Stock, Base de datos de pacientes y Base de datos de empleados).",
@@ -41,6 +42,7 @@
     {
       "name": "Complejo Hospitalario Norberto Di Prospero",
       "position": "Desarrollo y mantenimiento de Sistemas",
+      "url":"",
       "startDate": "2022-05-01",
       "endDate": "2023-04-01",
       "summary": "Creé un sistema de Stock automatizado para el área de Economato del hospital. Para ello, utilice HTML (para formularios e interfaz gráfica), Java Script (para el Back End) y Google Sheets (como Base de datos de los insumos). Finalmente me encargué del mantenimiento del sistema y de explicarle a quienes iban a usarlo, la manera más óptima de hacerlo, adecuandome a sus necesidades."
@@ -48,6 +50,7 @@
     {
       "name": "New Gadgets",
       "position": "Free Lance - Profesional independiente",
+      "url":"",
       "startDate": "2024-02-01",
       "endDate": "2024-05-01",
       "summary": "Desarrollé un sistema automatizado de Stock, con estadística (de clientes, compradores y vendedores), una base de datos de compradores y clientes (diferenciando entre mayoristas y minoristas) y una interfaz de visualización de productos para los posibles compradores con el framework de Astro (HTML, CSS y JavaScript)."
@@ -190,7 +193,8 @@
       "highlights": [
         "Finalizado"
       ],
-      "url": "https://ecommercemodelpuleio.netlify.app/"
+      "url": "https://ecommercemodelpuleio.netlify.app/",
+      "github":""
     },
     {
       "name": "API Rest Sistema de viajes",
@@ -199,7 +203,8 @@
       "highlights": [
         "Finalizado"
       ],
-      "url": "https://github.com/tomasdaureli/uade.edu.tpo.adoo.guides"
+      "url": "https://github.com/tomasdaureli/uade.edu.tpo.adoo.guides",
+      "github":""
     },
     {
       "name": "Gestor de Stock",
@@ -208,7 +213,8 @@
       "highlights": [
         "Finalizado"
       ],
-      "url": "https://docs.google.com/spreadsheets/d/1tbzr2PBqREnxc4cXrdHmegUI1_Z38nFElqtzg-DMcUU/edit#gid=2138097766"
+      "url": "https://docs.google.com/spreadsheets/d/1tbzr2PBqREnxc4cXrdHmegUI1_Z38nFElqtzg-DMcUU/edit#gid=2138097766",
+      "github":""
     },
     {
       "name": "Implementaciones (dinamicas y estáticas) en Java",
@@ -217,7 +223,8 @@
       "highlights": [
         "Finalizado"
       ],
-      "url": "https://github.com/santypuleio/Java---Final-Implementaciones/tree/codespace-glorious-happiness-4jq664gv5g9g2g66/final-java"
+      "url": "https://github.com/santypuleio/Java---Final-Implementaciones/tree/codespace-glorious-happiness-4jq664gv5g9g2g66/final-java",
+      "github":""
     }
   ]
 }
