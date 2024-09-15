@@ -46,14 +46,6 @@
       "startDate": "2022-05-01",
       "endDate": "2023-04-01",
       "summary": "Creé un sistema de Stock automatizado para el área de Economato del hospital. Para ello, utilice HTML (para formularios e interfaz gráfica), Java Script (para el Back End) y Google Sheets (como Base de datos de los insumos). Finalmente me encargué del mantenimiento del sistema y de explicarle a quienes iban a usarlo, la manera más óptima de hacerlo, adecuandome a sus necesidades."
-    },
-    {
-      "name": "New Gadgets",
-      "position": "Free Lance - Profesional independiente",
-      "url":"",
-      "startDate": "2024-02-01",
-      "endDate": "2024-05-01",
-      "summary": "Desarrollé un sistema automatizado de Stock, con estadística (de clientes, compradores y vendedores), una base de datos de compradores y clientes (diferenciando entre mayoristas y minoristas) y una interfaz de visualización de productos para los posibles compradores con el framework de Astro (HTML, CSS y JavaScript)."
     }
   ],
 
@@ -72,15 +64,15 @@
     "endDate": null
   },
   {
-    "institution": "EducacionIT",
-    "area": "Carrera de Data Science",
+    "institution": "EducacionIT - Carrera de Data Science",
+    "area": "PowerBI, Python para análisis de datos (librerías de Panda y Numpy), SQL Server Programming",
     "studyType": "Carrera Data Science",
     "startDate": "2024-02-01",
-    "endDate": null
+    "endDate": "2024-09-01"
   },
   {
-    "institution": "EducacionIT",
-    "area": "Curso Python Programming",
+    "institution": "EducacionIT - Curso Python Programming",
+    "area": "Introducción a Python y Herramientas, Tipos de Datos y Colecciones, Operadores y Sentencias de Control, Funciones Built-in y Definición de Funciones Propias, Ámbito, Valor y Referencia en Funciones, Argumentos de Longitud Variable",
     "studyType": "Curso",
     "startDate": "2022-05-19",
     "endDate": "2022-06-16"
