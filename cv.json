@@ -181,11 +181,11 @@
     {
       "name": "Ecommerce-Web",
       "isActive": true,
-      "description": "Página web creada como modelo de Ecommerce en Astro (con HTML, CSS, JavaScript). Aclaración: las compras en este modelo se manejan a través de Whatsapp porque así lo pidió el cliente. Actualmente estoy implementando la API de MercadoPago.",
+      "description": "Este proyecto es una tienda en línea de productos Apple desarrollada con Astro JS, HTML y CSS. Utiliza Glitch para alojar un documento JSON que actúa como base de datos, permitiendo gestionar y obtener la información de los productos de manera dinámica. El sitio está optimizado para ofrecer una experiencia de usuario fluida y responsiva.",
       "highlights": [
         "Finalizado"
       ],
-      "url": "https://ariel-prueba.netlify.app/mac/",
+      "url": "https://ariel-prueba.netlify.app/",
       "github":""
     },
     {
